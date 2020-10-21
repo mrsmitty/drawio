@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T00:42:25.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="R0oGQpr6BuUM1eEHZLqe" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T00:43:59.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="bfEc4Ckjpi2kpULfRRA1" version="13.8.0" type="github">
   <diagram id="PGwOGW8jr5pXGON_x2NF" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,9 @@
         <mxCell id="kntNAHde8xw8YllTZeuv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kntNAHde8xw8YllTZeuv-15" target="kntNAHde8xw8YllTZeuv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kntNAHde8xw8YllTZeuv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="kntNAHde8xw8YllTZeuv-15" target="kntNAHde8xw8YllTZeuv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kntNAHde8xw8YllTZeuv-15" value="GitHub" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fillColor=none;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="626" y="40" width="50" height="50" as="geometry" />
         </mxCell>
@@ -97,6 +100,9 @@
         </mxCell>
         <mxCell id="kntNAHde8xw8YllTZeuv-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/google-play-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="776" y="433" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kntNAHde8xw8YllTZeuv-32" value="App Stores" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;align=right;labelPosition=center;verticalLabelPosition=top;strokeColor=#99CCFF;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="607" y="420" width="236.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
