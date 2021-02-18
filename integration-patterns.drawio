@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T01:16:25.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="k8PotDKeVwLzov0NSflA" version="14.3.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-02-18T03:21:34.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="EQvDuwohdGZx95UWdLF4" version="14.3.1" type="github" pages="8">
   <diagram id="84DhbOrUpi2HIsuhRs9H" name="on-prem-cloud">
     <mxGraphModel dx="2062" dy="1107" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7HfM7xb4NT2rAJp5uWXF" name="BizTalk">
-    <mxGraphModel dx="2062" dy="1541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="2289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OUUoAGUyzEq66H8U1ENP-0" />
         <mxCell id="OUUoAGUyzEq66H8U1ENP-1" parent="OUUoAGUyzEq66H8U1ENP-0" />
@@ -552,7 +552,7 @@
         <mxCell id="OUUoAGUyzEq66H8U1ENP-6" value="Receive Adapter" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="371" y="-11" width="130" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="OUUoAGUyzEq66H8U1ENP-7" value="Orchestrations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
+        <mxCell id="OUUoAGUyzEq66H8U1ENP-7" value="Orchestrations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="641" y="-26" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUUoAGUyzEq66H8U1ENP-10" value="Pipeline" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
@@ -570,7 +570,7 @@
         <mxCell id="OUUoAGUyzEq66H8U1ENP-14" value="Send Adapter" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="927" y="-4.75" width="130" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="OUUoAGUyzEq66H8U1ENP-15" value="Message Box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
+        <mxCell id="OUUoAGUyzEq66H8U1ENP-15" value="Message Box" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="641" y="44" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUUoAGUyzEq66H8U1ENP-19" value="Azure Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;dashed=1;fillColor=none;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
@@ -626,7 +626,7 @@
         <mxCell id="OUUoAGUyzEq66H8U1ENP-34" value="Service Bus" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAHQAAABzCAYAAABJnyafAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAupJREFUeNrs3L9rE2Ecx/FHuaAJJVDDYREhdLBgFge7Ko46d3LQubP/RP+EOuvsJugmOLt0iejSxaESYkHwOsSKfK4cBmkSaNJ7nu/33m9wSuF+vLwfeZ7LXXn69sujEMKHQC66yi4AlAAlQAlQAhRQApQAJUAJUEAJUAKUACVAASVACVAClAAFlAAlQAlQAtR1WawFP9lcD52W3/9PxeRPeHd43AxQYT4b5I04YupGjXKIeD4yY28n11BuighQApQApZjfQ+f1eXwShj+K5Hfe4EYn3O21AV2UMN98Had/OGyF5EA55XINJUDJN6gGrpf5PJVS3I4oN0XVgPV5Y52xZim8bEcWe2dYL7XtyCzstLzdCnmnFX09RsUkjE4mDCws2/bGWhLzp6+Ho+TPLCbucrUTP377GXUdtHwLlwkToLrpeHlwFA1Vy9XyLUzMmzjl6pEVXb+0U9XD293aMbVMXcdTH5I0M7Cwe2+j3Kl1HqnTmFq+hbJgqGqn1nGkWsQ0B1oXqlVMk6CXjWoZ0yzoZaFaxzQNumpUD5jmQVeF6gXTBeiyqJ4w3YBeFNUbpivQ/1GLyWl4vLk+82/fHx6HV8ORK0x3oBWqhuiE9en7r7Mhu/a/qTdNf+nIHI6LsLPVCzt3eq623x2oEtL2zbVydqQ6BU8n5L0H/dDvXnO37S5BlbB0tOqfHtyuSu05WkAvkHfE6XiME1AClAAlQAlQQInvocunJ/6mBwdirgegK0hjr7EftOaUS4CS4VPurLdxWvp9qNIPqc6btWnU70OfD/K5k8/KAqowX9y/NfPzvJ2V87LuT7n97vW5n1t5W+ei+dRF28k1lAAFlLjLXXV6h55eu5Z65XoCujg9MtKkx0Y45RKggBKgBCh5AC1+nzZi58bYzihfW/YPjsrZFu81ZrZFU0sm3inPKZcAJUAJUEAJUAKUACVAASVACVAClAAFlAAlQAlQAhRQApQAJUAJUEAJUEqsvwIMALUmGwj7Ke3bAAAAAElFTkSuQmCC;flipV=0;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="906.5" y="634.67" width="40" height="39.66" as="geometry" />
         </mxCell>
-        <mxCell id="OUUoAGUyzEq66H8U1ENP-41" value="Business Activity Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
+        <mxCell id="OUUoAGUyzEq66H8U1ENP-41" value="Business Activity Monitoring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
           <mxGeometry x="391" y="124" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUUoAGUyzEq66H8U1ENP-44" value="BizTalk to Logic App Migration" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;fontSize=16;align=center;size=90;gradientColor=#ffffff;shadow=1;fillColor=#66B2FF;fontColor=#FFFFFF;verticalAlign=middle;fontStyle=1" vertex="1" parent="OUUoAGUyzEq66H8U1ENP-1">
