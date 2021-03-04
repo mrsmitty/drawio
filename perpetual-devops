@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T01:48:26.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" version="14.4.3" etag="AV9QWRZ2a-MwCBrPhRDS" type="github"><diagram id="KWxEx1H7YZTPbZ6VNLO1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-04T02:11:13.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="PdM9s3Fwkh34D6ph3ncX" version="14.4.3" type="github">
+  <diagram id="KWxEx1H7YZTPbZ6VNLO1" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-35" value="PRS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;align=right;fontSize=15;fontStyle=1;strokeColor=#007FFF;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="770" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="718" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-26" value="Shared Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;align=right;fontSize=15;fontStyle=1;strokeColor=#007FFF;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="770" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="420" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="210" width="340" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-3" value="Processing Engine" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="545" y="240" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-4" value="Shared App Insights" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="44" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-5" value="API Management" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="265" y="400" width="64" height="59.08" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-6" value="Shared Key Vault" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="265" y="283" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-7" value="Shared Storage Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="166" width="64" height="51.2" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-9" value="Control Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="563" y="446" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-10" value="SQL Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="445" y="380" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-11" value="Shared Service Bus" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="105" y="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-18" value="App Service Shared" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="445" y="160" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-21" value="App Service Shared Consumption" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSItMS44MDMzNTY4NjE2MjY5Mjg1ZS0xNCAwIDQ5Ljk0OTAwMTMxMjI1NTg2IDUwIiBjbGFzcz0iZnh0LWVzY2FwZVNoYWRvdyIgcm9sZT0icHJlc2VudGF0aW9uIiBmb2N1c2FibGU9ImZhbHNlIiBhcmlhLWhpZGRlbj0idHJ1ZSIgd2lkdGg9IjQ5Ljk0OTAwMTMxMjI1NTg2IiBoZWlnaHQ9IjUwIj4mI3hhOzxnPiYjeGE7PHBhdGggZD0iTTI5LjM2NCA0Ny40NjJBMi41MzggMi41MzggMCAwMTI2LjgyNiA1MEgyLjUzOEEyLjUzOCAyLjUzOCAwIDAxMCA0Ny40NjJWMi41MzhBMi41MzggMi41MzggMCAwMTIuNTM4IDBoMjQuMjg4YTIuNTM4IDIuNTM4IDAgMDEyLjUzOCAyLjUzOHY0NC45MjR6IiBmaWxsPSIjYTBhMWEyIi8+JiN4YTs8cGF0aCBkPSJNNC4zMTYgMjcuMDI0YTMuMTkxIDMuMTkxIDAgMDEzLjE5MS0zLjE5MWgxNC42MTRhMy4xOTEgMy4xOTEgMCAwMTAgNi4zODJINy41MDdhMy4xOSAzLjE5IDAgMDEtMy4xOTEtMy4xOTF6IiBmaWxsPSIjMWUxZTFlIi8+JiN4YTs8Y2lyY2xlIGN4PSI3LjY0MyIgY3k9IjI3LjAyNCIgcj0iMi4xNDIiIGZpbGw9IiM1OWI0ZDkiLz4mI3hhOzxwYXRoIGQ9Ik00LjMxNiAxNy41NDVhMy4xOTEgMy4xOTEgMCAwMTMuMTkxLTMuMTkxaDE0LjYxNGEzLjE5MSAzLjE5MSAwIDAxMCA2LjM4Mkg3LjUwN2EzLjE5MSAzLjE5MSAwIDAxLTMuMTkxLTMuMTkxeiIgZmlsbD0iIzFlMWUxZSIvPiYjeGE7PGNpcmNsZSBjeD0iNy42NDMiIGN5PSIxNy41NDUiIHI9IjIuMTQyIiBmaWxsPSIjNTliNGQ5Ii8+JiN4YTs8cGF0aCBkPSJNNC4zMTYgOC4wNjVhMy4xOTEgMy4xOTEgMCAwMTMuMTkxLTMuMTkxaDE0LjYxNGEzLjE5MSAzLjE5MSAwIDAxMCA2LjM4Mkg3LjUwN2EzLjE5IDMuMTkgMCAwMS0zLjE5MS0zLjE5MXoiIGZpbGw9IiMxZTFlMWUiLz4mI3hhOzxjaXJjbGUgY3g9IjcuNjQzIiBjeT0iOC4wNjUiIHI9IjIuMTQyIiBmaWxsPSIjNTliNGQ5Ii8+JiN4YTs8cGF0aCBkPSJNNDkuOTQ5IDQ1LjM3M2MwLTIuNTU1LTIuMDUxLTQuNjI2LTQuNTg1LTQuNjI2LS4xOTEgMC0uMzc5LjAxNS0uNTU5LjA0LjI4LTEuMDM5LjQzNC0yLjEzMi40MzQtMy4yNjEgMC02LjgxLTUuNDc1LTEyLjMzMS0xMi4yMjctMTIuMzMxLTUuMzk1IDAtOS45NjkgMy41MjMtMTEuNTk0IDguNDEzYTguMjA2IDguMjA2IDAgMDAtMi43My0uNDcxYy00LjYxOSAwLTguMzU3IDMuNzc1LTguMzU3IDguNDMgMCA0LjY1OCAzLjczOCA4LjQzMyA4LjM1NyA4LjQzM2wuMDEyLS4wMDNWNTBoMjcuMDM2bC0uMDA1LS4wMjNjMi4zNTktLjE4NiA0LjIxOC0yLjE3MyA0LjIxOC00LjYwNCIgZmlsbD0iI2I4ZDQzMiIvPiYjeGE7PHBhdGggZD0iTTIzLjEyOCA1MGE4LjQ0NyA4LjQ0NyAwIDAxLTIuMjktNC4xMjNjLTEuMDM2LTQuNTM4IDEuNzY4LTkuMDUxIDYuMjcxLTEwLjA3OWE4LjIwNyA4LjIwNyAwIDAxMi43NjYtLjE0OWMuNDA5LTQuMjQgMi45OTUtOC4wMTEgNi44NDgtOS44NzJhMTIuMTE3IDEyLjExNyAwIDAwLTMuNzEyLS41ODNjLTUuMzk1IDAtOS45NjkgMy41MjMtMTEuNTk0IDguNDEzYTguMjAxIDguMjAxIDAgMDAtMi43My0uNDcxYy00LjYxOSAwLTguMzU3IDMuNzc1LTguMzU3IDguNDMgMCA0LjY1OCAzLjczOCA4LjQzMyA4LjM1NyA4LjQzM2wuMDEyLS4wMDNWNTBoNC40Mjl6IiBvcGFjaXR5PSIuMiIgZmlsbD0iI2ZmZiIvPiYjeGE7PC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="275" y="160" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-22" value="Task Handler" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="655" y="240" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-27" value="PRS App Service" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="545" y="680" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-28" value="PRS API" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="646" y="756" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-29" value="PRS Data Factory" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="680" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-31" value="PRS Key Vault" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-32" value="PRS App Insights" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="681" width="44" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-33" value="PRS Blob Storage" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="806" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-34" value="PRS Audit Storage" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;dashed=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="806" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="420Ku67Xdx6BCt1SQ_Pz-36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="620" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
