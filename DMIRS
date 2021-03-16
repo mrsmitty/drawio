@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:16:57.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.50" version="14.4.8" etag="SeqQ5hd0UWMmMKE0vAHt" type="github"><diagram id="-O6wLUf9y1WF9ZIBHMbW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T08:15:01.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36 Edg/89.0.774.50" etag="UvW7heAjEBawePgxuJvz" version="14.4.8" type="github">
+  <diagram id="-O6wLUf9y1WF9ZIBHMbW" name="Page-1">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ozrkbMSOk62sEXFIghGn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ozrkbMSOk62sEXFIghGn-1" target="ozrkbMSOk62sEXFIghGn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15" y="350" />
+              <mxPoint x="450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-1" value="&lt;div&gt;WAR-SYD-NS-VNT-10.64.80.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="180" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="160" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ozrkbMSOk62sEXFIghGn-3" target="ozrkbMSOk62sEXFIghGn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="350" />
+              <mxPoint x="450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-3" value="&lt;div&gt;WAR-SYD-DV-VNT-10.64.72.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ozrkbMSOk62sEXFIghGn-5" target="ozrkbMSOk62sEXFIghGn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-5" value="&lt;div&gt;WAR-SYD-ST-VNT-10.64.88.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ozrkbMSOk62sEXFIghGn-7" target="ozrkbMSOk62sEXFIghGn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="350" />
+              <mxPoint x="450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-7" value="&lt;div&gt;WAR-SYD-UT-VNT-10.64.96.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ozrkbMSOk62sEXFIghGn-9" target="ozrkbMSOk62sEXFIghGn-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="350" />
+              <mxPoint x="450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-9" value="&lt;div&gt;WAR-SYD-PD-VNT-10.64.64.0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="180" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-11" value="&lt;div&gt;WAR-SYD-??&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-18" value="&lt;div&gt;WAR-SYD-??&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ozrkbMSOk62sEXFIghGn-20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/ExpressRoute_Circuits.svg;dashed=1;strokeColor=#007FFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="70" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
