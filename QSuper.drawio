@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:18:02.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="4ZldORJq0Ah1tg5IRYTP" version="14.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-23T08:52:25.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="1TeVZFDlJu8lLZSbhmiN" version="14.5.0" type="github" pages="2">
   <diagram id="OXXTKI3jlvZB-atdNKty" name="Page-1">
     <mxGraphModel dx="1852" dy="1815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9ooPEI-2UkvyeGOtOTY5" name="Page-2">
-    <mxGraphModel dx="1002" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aJJyw2hDpWCrRJZ6qNEr-0" />
         <mxCell id="aJJyw2hDpWCrRJZ6qNEr-1" parent="aJJyw2hDpWCrRJZ6qNEr-0" />
@@ -229,6 +229,9 @@
               <mxPoint x="429" y="52" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tn3znNdEzJ_3pMZolVQu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="aJJyw2hDpWCrRJZ6qNEr-1" source="aJJyw2hDpWCrRJZ6qNEr-25" target="tn3znNdEzJ_3pMZolVQu-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJJyw2hDpWCrRJZ6qNEr-25" value="App Service Plan" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;align=right;fillColor=none;dashed=1;verticalAlign=top;" parent="aJJyw2hDpWCrRJZ6qNEr-1" vertex="1">
           <mxGeometry x="287" y="149.46" width="358" height="110" as="geometry" />
@@ -390,6 +393,9 @@
         </mxCell>
         <mxCell id="tn3znNdEzJ_3pMZolVQu-11" value="Azure Active Directory" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="aJJyw2hDpWCrRJZ6qNEr-1">
           <mxGeometry x="168" y="33" width="40" height="36.57" as="geometry" />
+        </mxCell>
+        <mxCell id="tn3znNdEzJ_3pMZolVQu-14" value="Key Vault" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="aJJyw2hDpWCrRJZ6qNEr-1">
+          <mxGeometry x="724.94" y="176" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
