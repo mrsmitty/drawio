@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T07:59:42.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="WFUj7vpByXrfCHBMPUYn" version="14.4.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:31:57.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="m9hyoPpwvnkDqIWHogCC" version="14.4.8" type="github" pages="3">
   <diagram id="wpiUrzRWYCGQynBEBwfB" name="Current State">
     <mxGraphModel dx="981" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,12 +197,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Broker" id="JvOBlWL_DEaOgvOup9iA">
-    <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UwpHg3aXhqOmoQFBYp4--0" />
         <mxCell id="UwpHg3aXhqOmoQFBYp4--1" parent="UwpHg3aXhqOmoQFBYp4--0" />
         <mxCell id="UwpHg3aXhqOmoQFBYp4--2" value="Azure" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFB973;shape=mxgraph.archimate3.application;appType=location;archiType=square;align=left;verticalAlign=top;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
-          <mxGeometry x="170" y="220" width="440" height="480" as="geometry" />
+          <mxGeometry x="200" y="220" width="410" height="480" as="geometry" />
         </mxCell>
         <mxCell id="UwpHg3aXhqOmoQFBYp4--3" value="API Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.service;align=center;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
           <mxGeometry x="392" y="355" width="150" height="35" as="geometry" />
@@ -248,7 +248,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UwpHg3aXhqOmoQFBYp4--16" value="Broker" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=left;verticalAlign=top;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
+        <mxCell id="UwpHg3aXhqOmoQFBYp4--16" value="Message Broker" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=left;verticalAlign=top;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
           <mxGeometry x="285" y="585" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UwpHg3aXhqOmoQFBYp4--23" value="Message" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.artifact;align=left;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
@@ -288,7 +288,7 @@
           <mxGeometry x="315" y="615" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="99GWr9RCKfzPfb5E9oSw-0" value="DMIRS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFB973;shape=mxgraph.archimate3.application;appType=location;archiType=square;align=left;verticalAlign=top;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
-          <mxGeometry x="170" y="720" width="440" height="170" as="geometry" />
+          <mxGeometry x="200" y="720" width="410" height="170" as="geometry" />
         </mxCell>
         <mxCell id="99GWr9RCKfzPfb5E9oSw-4" value="SQL Server / Core" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;align=left;verticalAlign=top;" vertex="1" parent="UwpHg3aXhqOmoQFBYp4--1">
           <mxGeometry x="285" y="752.5" width="245" height="105" as="geometry" />
