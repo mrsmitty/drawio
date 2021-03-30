@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T08:04:30.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="ECV8e0xtaf-BegV2beK6" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-30T08:07:54.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="-kDgtU32lh1fDNPRqpdQ" version="14.5.3" type="github" pages="5">
   <diagram id="wpiUrzRWYCGQynBEBwfB" name="Current State">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -478,7 +478,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-3" value="Root" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
-          <mxGeometry x="370" y="530" width="66" height="64" as="geometry" />
+          <mxGeometry x="370" y="500" width="66" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1" source="7WOl7vMgxGPdqiZ1Zg9R-4" target="7WOl7vMgxGPdqiZ1Zg9R-11">
           <mxGeometry relative="1" as="geometry" />
@@ -516,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-4" value="ASM-Management" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
-          <mxGeometry x="370" y="679" width="66" height="64" as="geometry" />
+          <mxGeometry x="370" y="649" width="66" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-5" value="WAR-IT-UserTesting" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
           <mxGeometry x="531" y="989" width="44" height="71" as="geometry" />
@@ -561,21 +561,19 @@
           <mxGeometry x="670" y="833" width="66" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
-          <mxGeometry x="441" y="672" width="50" height="80" as="geometry" />
+          <mxGeometry x="441" y="642" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-21" value="Monitoring Reader&lt;br&gt;Microsoft.Insights/AlertRules/*&lt;br&gt;Microsoft.Insights/*/read&lt;br&gt;Microsoft.Support/*" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
-          <mxGeometry x="490" y="681" width="180" height="60" as="geometry" />
+        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-21" value="Monitoring Reader&lt;br&gt;Microsoft.Insights/AlertRules/*&lt;br&gt;Microsoft.Insights/*/read&lt;br&gt;Microsoft.Support/*" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#007FFF;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
+          <mxGeometry x="491" y="651" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1" source="7WOl7vMgxGPdqiZ1Zg9R-28" target="7WOl7vMgxGPdqiZ1Zg9R-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="710" />
-              <mxPoint x="280" y="710" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-28" value="ASM AAD&lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
+          <mxGeometry x="736" y="642" width="68" height="56.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-28" value="ASM AAD Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
-          <mxGeometry x="136" y="683" width="68" height="56.00000000000001" as="geometry" />
+        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
+          <mxGeometry x="650" y="642" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7WOl7vMgxGPdqiZ1Zg9R-32" value="Role Assignment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7WOl7vMgxGPdqiZ1Zg9R-1">
+          <mxGeometry x="520" y="722" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
